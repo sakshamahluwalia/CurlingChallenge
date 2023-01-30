@@ -1,0 +1,8 @@
+#canvas {
+    height: inherit;
+    width: inherit;
+}
+
+.simulationStatusText {
+    text-align: center;
+}

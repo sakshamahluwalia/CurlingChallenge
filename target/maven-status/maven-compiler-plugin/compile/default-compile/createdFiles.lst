@@ -1,0 +1,7 @@
+com/curling/demo/links/AppLinks.class
+com/curling/demo/controller/ApplicationController.class
+com/curling/demo/entity/Point.class
+com/curling/demo/service/SlideDiskService.class
+com/curling/demo/service/GenerateCoordinatesService.class
+com/curling/demo/Utils/Utils.class
+com/curling/demo/DemoApplication.class

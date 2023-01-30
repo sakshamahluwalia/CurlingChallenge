@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.curling.demo.service.SlideDiskServiceTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in com.curling.demo.service.SlideDiskServiceTest
